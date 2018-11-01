@@ -1,8 +1,8 @@
 {
-  "name": "mern-social",
+  "name": "health-app",
   "version": "1.0.0",
-  "description": "A MERN stack based social media application",
-  "author": "Shama Hoque",
+  "description": "Health related motiivational application",
+  "author": "Justin Smith",
   "license": "MIT",
   "keywords": [
     "react",
@@ -13,9 +13,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/shamahoque/mern-social.git"
+    "url": "https://github.com/justinsmith-fullstackdev/healthApp/tree/master/health-react"
   },
-  "homepage": "https://github.com/shamahoque/mern-social",
+  "homepage": "https://github.com/justinsmith-fullstackdev/healthApp/tree/master/health-react",
   "main": "./dist/server.generated.js",
   "scripts": {
     "development": "nodemon",
